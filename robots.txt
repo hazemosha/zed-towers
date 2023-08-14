@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zed-towers.pages.dev/sitemap.xml
